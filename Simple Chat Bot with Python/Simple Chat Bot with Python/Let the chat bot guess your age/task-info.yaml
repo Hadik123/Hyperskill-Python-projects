@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: bot/bot.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: true
+    learner_created: false
+  - name: test/tests.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8801#comment
+status: Solved
+record: 2

@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: bot/bot.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: true
+    learner_created: false
+  - name: test/tests.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8802#comment
+status: Unchecked
+feedback:
+  message: "No tests have run. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run\"\
+    >the Troubleshooting guide</a>"
+  time: "Sun, 26 May 2024 12:07:34 UTC"
+record: 3
