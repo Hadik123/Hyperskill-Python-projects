@@ -1,0 +1,21 @@
+type: edu
+custom_name: Show me an animal!
+files:
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: zookeeper/zookeeper.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/98/stages/540/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 14 Sep 2024 14:20:38 UTC"
+record: 2
